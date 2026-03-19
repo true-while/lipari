@@ -18,3 +18,6 @@ Portorosa->Lipari->Panarea->Salina->Filucudi->Vulcano->Portorosa
 
 
 https://seatv.world/best-anchorages-in-the-aeolian-islands/
+
+
+https://plainsailing.com/destinations/italy/portorosa
