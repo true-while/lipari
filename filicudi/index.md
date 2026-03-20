@@ -7,7 +7,7 @@ header:
 
 **Filicudi** — один из самых диких и живописных островов Эолийского архипелага, идеально подходящий для яхтинга благодаря кристально чистой воде, уникальным гротам (**Grotta del Bue Marino**) и скалам (**La Canna**).
 
-![alt text](filicudi-map.png)
+![Карта Филикуди](filicudi-map.png)
 
 ---
 
@@ -25,7 +25,7 @@ header:
 
 `Координаты: 38° 33.70' N, 14° 34.95' E`
 
-![alt text](pontile-filicudi.png)
+![Причал Filicudi Porto](pontile-filicudi.png)
 
 ---
 
@@ -42,8 +42,8 @@ header:
 
 `Координаты: 38° 33.48' N, 14° 33.90' E`
 
-![alt text](pecorini-a-marine.png)
-![alt text](pecorini-a-marine-2.png)
+![Буйковая стоянка Pecorini a Mare](pecorini-a-marine.png)
+![Pecorini a Mare, вид с моря](pecorini-a-marine-2.png)
 
 
 
@@ -58,5 +58,5 @@ header:
 
 `Координаты: 38° 34.28' N, 14° 32.45' E`
 
-![alt text](Grotta-del-Bue.png)
-![alt text](Grotta-del-Bue2.png)
+![Грот Grotta del Bue Marino](Grotta-del-Bue.png)
+![Внутри грота Bue Marino](Grotta-del-Bue2.png)

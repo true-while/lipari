@@ -18,8 +18,8 @@ header:
 
 [https://www.marinadelnettuno.it/servizi/](https://www.marinadelnettuno.it/servizi/)
 
-![alt text](schema.png)
-![alt text](netuno-drone.png)
+![Схема Marina del Nettuno](schema.png)
+![Marina del Nettuno с дрона](netuno-drone.png)
 
 Предоставляет следующие сервисы:
 
@@ -31,7 +31,7 @@ header:
 
 Для закупок есть супермаркет **Supermercato Sigma** с полным выбором продуктов и **Supermercato Decò** с хорошим выбором алкоголя. 
 
-![alt text](deco.png)
+![Супермаркет Decò в Милаццо](deco.png)
 
 ---
 ### Marina Poseidon - марина
@@ -43,7 +43,7 @@ header:
 
 [https://poseidonmarina.it/servizi/](https://poseidonmarina.it/servizi/)
 
-![alt text](Poseidon.png)
+![Marina Poseidon](Poseidon.png)
 
 Предоставляет следующие сервисы:
 - **Топливная станция** прямо в марине
@@ -61,7 +61,7 @@ header:
 
 `Координаты: 38° 13.58' N, 15° 14.67' E`
 
-![alt text](Maggiore.png)
+![Марина Santa Maria Maggiore](Maggiore.png)
 
 Предоставляет следующие сервисы:
 - туалеты и душевые
@@ -73,30 +73,30 @@ header:
 ### Castello di Milazzo - замок
 Главная достопримечательность города и один из крупнейших замковых комплексов в Сицилии. Расположен на холме с панорамными видами на город, порт и Эолийские острова. Внутри — бастионы, стены, археологические зоны и смотровые площадки. Время работы: 09:00–18:30 (до 20:00 в сезон). Билет: от 5 до 8 €.
 
-![alt text](Castello.png)
+![Castello di Milazzo](Castello.png)
 
 ---
 ### Duomo di Santo Stefano - собор
 Главный собор города с барочной архитектурой. Находится в нижнем городе недалеко от набережной. Интересен как исторически, так и архитектурно, особенно в сочетании с прогулкой по центру.
 
-![alt text](Duomo1.png)
-![alt text](Duomo.png)
+![Duomo di Santo Stefano, фасад](Duomo1.png)
+![Duomo di Santo Stefano](Duomo.png)
 
 ---
 ### Lungomare Garibaldi - набережная
 Протяжённая набережная, идеальная для вечерних прогулок. Вдоль неё расположены кафе, рестораны, открываются виды на море и замок. Соединяет марину **Santa Maria Maggiore** с городом.
 
-![alt text](Garibaldi.png)
+![Набережная Lungomare Garibaldi](Garibaldi.png)
 
 ---
 ### Borgo Vaccarella - район
 Аутентичный рыбацкий район у моря, рядом с **Marina Poseidon** и **Santa Maria Maggiore**. Атмосферное место для прогулки, фотографий и ужина из свежей рыбы. Отлично передаёт подлинный характер Милаццо.
 
-![alt text](Vaccarella.png)
+![Рыбацкий район Borgo Vaccarella](Vaccarella.png)
 
 ---
 ### Capo Milazzo - мыс
 Природный мыс с пешеходными тропами, смотровыми площадками и дикой природой. Здесь находится **Piscina di Venere** (природная морская купальня) — одна из самых фотогеничных локаций района. Входной билет — 3 €.
 
-![alt text](Capo.png)
-![alt text](Venere.png)
+![Мыс Capo Milazzo](Capo.png)
+![Piscina di Venere](Venere.png)
