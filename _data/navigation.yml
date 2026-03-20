@@ -1,20 +1,14 @@
 main:
   - title: "Главная"
     url: /
-  - title: "Маршруты"
-    url: /routes/
-  - title: "Регаты"
-    url: /races/
-  - title: "Ветра"
-    url: /winds/
-  - title: "Milazzo"
-    url: /milazzo/
   - title: "Portorosa"
     url: /portorosa/
-  - title: "Lipari"
-    url: /lipari/
+  - title: "Milazzo"
+    url: /milazzo/
   - title: "Vulcano"
     url: /vulcano/
+  - title: "Lipari"
+    url: /lipari/
   - title: "Salina"
     url: /salina/
   - title: "Panarea"
@@ -23,4 +17,6 @@ main:
     url: /stromboli/
   - title: "Filicudi"
     url: /filicudi/
+  - title: "Alicudi"
+    url: /alicudi/
 
