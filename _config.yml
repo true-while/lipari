@@ -4,7 +4,7 @@ minimal_mistakes_skin: "air"
 # Site Settings
 locale: "ru"
 title: "Эолийские острова"
-subtitle: "путеводитель _для_ яхтсменов"
+subtitle: "путеводитель\u00A0 для\u00A0 яхтсменов"
 description: "Путеводитель по Эолийским островам — марины, якорные стоянки, достопримечательности, регаты"
 url: "https://true-while.github.io"
 baseurl: "/lipari"
