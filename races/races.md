@@ -6,6 +6,13 @@ header:
   image: /races/title.png
 ---
 
+<div style="text-align: center; margin: 1.5em 0;">
+  <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
+  <a href="{{ site.baseurl }}/races/" class="btn btn--info btn--large">Гонки</a>
+  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветера</a>
+</div>
+
+
 РЕГАТНЫЕ МАРШРУТЫ — ЭОЛИЙСКИЕ ОСТРОВА
 Формат: 4 борта · 2–3 часа · ~10 узлов ветра · Oceanis 50
 
