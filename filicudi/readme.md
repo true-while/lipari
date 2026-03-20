@@ -1,4 +1,9 @@
-# Filicudi
+---
+layout: single
+title: "Filicudi"
+header:
+  image: /filicudi/title.jpg
+---
 
 **Filicudi** — один из самых диких и живописных островов Эолийского архипелага, идеально подходящий для яхтинга благодаря кристально чистой воде, уникальным гротам (**Grotta del Bue Marino**) и скалам (**La Canna**).
 

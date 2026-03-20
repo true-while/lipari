@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Регатные маршруты"
+permalink: /races/
+header:
+  image: /races/title.png
+---
+
 РЕГАТНЫЕ МАРШРУТЫ — ЭОЛИЙСКИЕ ОСТРОВА
 Формат: 4 борта · 2–3 часа · ~10 узлов ветра · Oceanis 50
 

@@ -1,0 +1,25 @@
+main:
+  - title: "Главная"
+    url: /
+  - title: "Milazzo"
+    url: /milazzo/
+  - title: "Portorosa"
+    url: /portorosa/
+  - title: "Lipari"
+    url: /lipari/
+  - title: "Vulcano"
+    url: /vulcano/
+  - title: "Salina"
+    url: /salina/
+  - title: "Panarea"
+    url: /panarea/
+  - title: "Stromboli"
+    url: /stromboli/
+  - title: "Filicudi"
+    url: /filicudi/
+  - title: "Маршруты"
+    url: /routes/
+  - title: "Регаты"
+    url: /races/
+  - title: "Ветра"
+    url: /winds/
