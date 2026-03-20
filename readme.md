@@ -6,12 +6,18 @@
 
 ---
 
+## Сицилия
+
+| Порт | Описание |
+|------|----------|
+| [Milazzo](https://true-while.github.io/lipari/milazzo/) | Главный порт на материке, стартовая точка чартеров |
+| [Portorosa](https://true-while.github.io/lipari/portorosa/) | Крупнейшая марина Сицилии, «ворота» к архипелагу |
+| [Capo d'Orlando](https://true-while.github.io/lipari/capo-d-orlando/) | Альтернативный старт, низкие цены, парк Неброди |
+
 ## Острова
 
 | Остров | Описание |
 |--------|----------|
-| [Milazzo](https://true-while.github.io/lipari/milazzo/) | Главный порт на материке, стартовая точка чартеров |
-| [Portorosa](https://true-while.github.io/lipari/portorosa/) | Крупнейшая марина Сицилии, «ворота» к архипелагу |
 | [Lipari](https://true-while.github.io/lipari/lipari/) | Крупнейший остров, лучшие марины и инфраструктура |
 | [Vulcano](https://true-while.github.io/lipari/vulcano/) | Вулкан, грязевые ванны, горячие источники |
 | [Salina](https://true-while.github.io/lipari/salina/) | Виноделие, природа, гастрономия |
