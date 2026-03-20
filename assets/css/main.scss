@@ -3,13 +3,16 @@
 
 @import "minimal-mistakes";
 
-/* Hide the mobile toggle menu button in the masthead */
-.greedy-nav .nav-btn {
-  display: none !important;
+/* Hide the masthead top navigation bar on mobile only */
+@media (max-width: 768px) {
+  #main > div > nav {
+    display: none !important;
+  }
 }
 
-.greedy-nav .hidden-links {
-  display: none !important;
+/* Add spacing between consecutive images */
+.page__content img {
+  margin-bottom: 1.5em;
 }
 
 /* Custom footer styling */
