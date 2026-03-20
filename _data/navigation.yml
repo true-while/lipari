@@ -1,6 +1,12 @@
 main:
   - title: "Главная"
     url: /
+  - title: "Маршруты"
+    url: /routes/
+  - title: "Регаты"
+    url: /races/
+  - title: "Ветра"
+    url: /winds/
   - title: "Milazzo"
     url: /milazzo/
   - title: "Portorosa"
@@ -17,9 +23,4 @@ main:
     url: /stromboli/
   - title: "Filicudi"
     url: /filicudi/
-  - title: "Маршруты"
-    url: /routes/
-  - title: "Регаты"
-    url: /races/
-  - title: "Ветра"
-    url: /winds/
+
