@@ -1,0 +1,30 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Hide the mobile toggle menu button in the masthead */
+.greedy-nav .nav-btn {
+  display: none !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+/* Custom footer styling */
+.page__footer-copyright {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 1em 0;
+
+  a {
+    color: #6c757d;
+    text-decoration: none;
+
+    &:hover {
+      color: #494e52;
+      text-decoration: underline;
+    }
+  }
+}
