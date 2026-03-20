@@ -3,13 +3,13 @@ layout: single
 title: "Регатные маршруты"
 permalink: /races/
 header:
-  image: /races/title.png
+  image: /title.jpg
 ---
 
 <div style="text-align: center; margin: 1.5em 0;">
   <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
   <a href="{{ site.baseurl }}/races/" class="btn btn--info btn--large">Гонки</a>
-  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветера</a>
+  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
 </div>
 
 

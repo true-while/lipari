@@ -10,24 +10,24 @@ header:
 <div style="text-align: center; margin: 1.5em 0;">
   <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
   <a href="{{ site.baseurl }}/races/" class="btn btn--info btn--large">Гонки</a>
-  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветера</a>
+  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
 </div>
 
 ---
 
 ## Острова
 
-| Остров | Характер | Ссылка |
-|--------|----------|--------|
-| **Milazzo** | Главный порт на материке, стартовая точка большинства чартеров | [Milazzo](milazzo/) |
-| **Portorosa** | Крупнейшая марина Сицилии, «ворота» к архипелагу | [Portorosa](portorosa/) |
-| **Lipari** | Крупнейший остров, лучшие марины и инфраструктура | [Lipari](lipari/) |
-| **Vulcano** | Вулкан, грязевые ванны, горячие источники | [Vulcano](vulcano/) |
-| **Salina** | Виноделие, природа, гастрономия — остров для гурманов | [Salina](salina/) |
-| **Panarea** | Богемный остров, клубная сцена, дайвинг | [Panarea](panarea/) |
-| **Stromboli** | Действующий вулкан, ночные извержения, дикая природа | [Stromboli](stromboli/) |
-| **Filicudi** | Самый дикий остров — гроты, скалы, уединение | [Filicudi](filicudi/) |
-| **Alicudi** | Самый удалённый остров — тишина, ступени, полное отключение | [Alicudi](alicudi/) |
+| Остров | Характер |
+|--------|----------|
+| [**Milazzo**]({{ site.baseurl }}/milazzo/) | Главный порт на материке, стартовая точка большинства чартеров |
+| [**Portorosa**]({{ site.baseurl }}/portorosa/) | Крупнейшая марина Сицилии, «ворота» к архипелагу |
+| [**Lipari**]({{ site.baseurl }}/lipari/) | Крупнейший остров, лучшие марины и инфраструктура |
+| [**Vulcano**]({{ site.baseurl }}/vulcano/) | Вулкан, грязевые ванны, горячие источники |
+| [**Salina**]({{ site.baseurl }}/salina/) | Виноделие, природа, гастрономия — остров для гурманов |
+| [**Panarea**]({{ site.baseurl }}/panarea/) | Богемный остров, клубная сцена, дайвинг |
+| [**Stromboli**]({{ site.baseurl }}/stromboli/) | Действующий вулкан, ночные извержения, дикая природа |
+| [**Filicudi**]({{ site.baseurl }}/filicudi/) | Самый дикий остров — гроты, скалы, уединение |
+| [**Alicudi**]({{ site.baseurl }}/alicudi/) | Самый удалённый остров — тишина, ступени, полное отключение |
 
 ---
 
@@ -59,10 +59,10 @@ header:
 
 | Маршрут | Характер |
 |---------|----------|
-| **Классический** | Portorosa → Vulcano → Stromboli → Salina → Panarea → Lipari → Portorosa |
-| **Посмотреть всё** | Portorosa → Vulcano → Lipari → Stromboli → Salina → Filicudi → Portorosa |
-| **Культурный** | Portorosa → Vulcano → Salina → Lipari → Milazzo → Portorosa |
-| **Гоночный** | Portorosa → Lipari → Panarea → Salina → Filicudi → Vulcano → Portorosa |
+| **Классический** | [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) → [Stromboli]({{ site.baseurl }}/stromboli/) → [Salina]({{ site.baseurl }}/salina/) → [Panarea]({{ site.baseurl }}/panarea/) → [Lipari]({{ site.baseurl }}/lipari/) → [Portorosa]({{ site.baseurl }}/portorosa/) |
+| **Посмотреть всё** | [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) → [Lipari]({{ site.baseurl }}/lipari/) → [Stromboli]({{ site.baseurl }}/stromboli/) → [Salina]({{ site.baseurl }}/salina/) → [Filicudi]({{ site.baseurl }}/filicudi/) → [Portorosa]({{ site.baseurl }}/portorosa/) |
+| **Культурный** | [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) → [Salina]({{ site.baseurl }}/salina/) → [Lipari]({{ site.baseurl }}/lipari/) → [Milazzo]({{ site.baseurl }}/milazzo/) → [Portorosa]({{ site.baseurl }}/portorosa/) |
+| **Гоночный** | [Portorosa]({{ site.baseurl }}/portorosa/) → [Lipari]({{ site.baseurl }}/lipari/) → [Panarea]({{ site.baseurl }}/panarea/) → [Salina]({{ site.baseurl }}/salina/) → [Filicudi]({{ site.baseurl }}/filicudi/) → [Vulcano]({{ site.baseurl }}/vulcano/) → [Portorosa]({{ site.baseurl }}/portorosa/) |
 
 ---
 
@@ -72,11 +72,11 @@ header:
 
 | Остров | Маршруты | Дистанция |
 |--------|----------|-----------|
-| **Lipari** | Липари Норд, Петля Кастелло, Acquacalda Sprint | 13–15 NM |
-| **Vulcano** | Южный треугольник, Gran Cratere Loop, Канал пролива | 12–14 NM |
-| **Salina** | Pollara–Lingua, Северный Sprint, Двойной Конус | 13–17 NM |
-| **Panarea** | Basiluzzo Loop, Lisca Bianca Circuit, Full Round | 12–15 NM |
-| **Stromboli** | Strombolicchio Star, Sciara del Fuoco, Sprint Sud | 12–14 NM |
+| [**Lipari**]({{ site.baseurl }}/lipari/) | Липари Норд, Петля Кастелло, Acquacalda Sprint | 13–15 NM |
+| [**Vulcano**]({{ site.baseurl }}/vulcano/) | Южный треугольник, Gran Cratere Loop, Канал пролива | 12–14 NM |
+| [**Salina**]({{ site.baseurl }}/salina/) | Pollara–Lingua, Северный Sprint, Двойной Конус | 13–17 NM |
+| [**Panarea**]({{ site.baseurl }}/panarea/) | Basiluzzo Loop, Lisca Bianca Circuit, Full Round | 12–15 NM |
+| [**Stromboli**]({{ site.baseurl }}/stromboli/) | Strombolicchio Star, Sciara del Fuoco, Sprint Sud | 12–14 NM |
 
 ---
 

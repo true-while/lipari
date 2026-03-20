@@ -1,12 +1,14 @@
 ---
 layout: single
 title: "Маршруты"
+header:
+  image: /title.jpg
 ---
 
 <div style="text-align: center; margin: 1.5em 0;">
   <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
   <a href="{{ site.baseurl }}/races/" class="btn btn--info btn--large">Гонки</a>
-  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветера</a>
+  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
 </div>
 
 
@@ -14,14 +16,14 @@ title: "Маршруты"
 
 | Остров | Название | Тип |
 |--------|----------|-----|
-| [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Baia Levante]({{ site.baseurl }}/vulcano/#baia-levante-marina-восточная-часть) | Марина |
-| [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Porto di Ponente]({{ site.baseurl }}/vulcano/#porto-di-ponente-западная-часть) | Якорь |
-| [**Lipari**]({{ site.baseurl }}/lipari/) | [Porto Pignataro]({{ site.baseurl }}/lipari/#marina-porto-pignataro) | Марина |
-| [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinedì]({{ site.baseurl }}/salina/#porto-commerciale---salina) | Марина |
-| [**Filicudi**]({{ site.baseurl }}/filicudi/) | [Pecorini a Mare]({{ site.baseurl }}/filicudi/#pecorini-a-mare-южная-часть) | Буи |
-| [**Panarea**]({{ site.baseurl }}/panarea/) | [Cala Junco]({{ site.baseurl }}/panarea/#cala-junco-южная-часть) | Якорь |
-| [**Panarea**]({{ site.baseurl }}/panarea/) | [Pontile Iditella]({{ site.baseurl }}/panarea/#pontile-iditella) | Буи |
-| [**Stromboli**]({{ site.baseurl }}/stromboli/) | [Punta Lena]({{ site.baseurl }}/stromboli/#punta-lena-северная-часть) | Якорь |
+| [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Baia Levante]({{ site.baseurl }}/vulcano/#baia-levante---марина-восток) | Марина |
+| [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Porto di Ponente]({{ site.baseurl }}/vulcano/#porto-di-ponente---якорь-запад) | Якорь |
+| [**Lipari**]({{ site.baseurl }}/lipari/) | [Porto Pignataro]({{ site.baseurl }}/lipari/#porto-pignataro---марина-восток) | Марина |
+| [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinеdì]({{ site.baseurl }}/salina/#marina-salina---marinеdì) | Марина |
+| [**Filicudi**]({{ site.baseurl }}/filicudi/) | [Pecorini a Mare]({{ site.baseurl }}/filicudi/#pecorini-a-mare---буи-юг) | Буи |
+| [**Panarea**]({{ site.baseurl }}/panarea/) | [Cala Junco]({{ site.baseurl }}/panarea/#cala-junco---якорь-юг) | Якорь |
+| [**Panarea**]({{ site.baseurl }}/panarea/) | [Pontile Iditella]({{ site.baseurl }}/panarea/#pontile-iditella---буи-восток) | Буи |
+| [**Stromboli**]({{ site.baseurl }}/stromboli/) | [Punta Lena]({{ site.baseurl }}/stromboli/#punta-lena---якорь-север) | Якорь |
 
 
 ## Маршруты

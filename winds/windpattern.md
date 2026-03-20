@@ -3,13 +3,13 @@ layout: single
 title: "Ветровой режим"
 permalink: /winds/
 header:
-  image: /winds/title.jpg
+  image: /title.jpg
 ---
 
 <div style="text-align: center; margin: 1.5em 0;">
   <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
   <a href="{{ site.baseurl }}/races/" class="btn btn--info btn--large">Гонки</a>
-  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветера</a>
+  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
 </div>
 
 ## Ветровой режим Эолийских островов по сезонам
@@ -66,7 +66,7 @@ header:
 
 ## Зима (ноябрь — март)
 
-Преобладающие ветра: **Tramontana**, **Gregale**, **Libeccio** — до 30–40 узлов
+Преобладающие ветра: **Tramontana**, **Grecale**, **Libeccio** — до 30–40 узлов
 Регулярные штормовые периоды
 Температура воздуха 10–16°C, море холодное
 Много дождей, порты менее загружены 
