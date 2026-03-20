@@ -13,6 +13,15 @@
 /* Add spacing between consecutive images */
 .page__content img {
   margin-bottom: 1.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Justify text in page content */
+.page__content p,
+.page__content li {
+  text-align: justify;
 }
 
 /* Custom footer styling */
