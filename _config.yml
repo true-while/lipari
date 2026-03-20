@@ -6,8 +6,8 @@ locale: "ru"
 title: "Эолийские острова"
 subtitle: "Путеводитель для яхтсменов"
 description: "Путеводитель по Эолийским островам — марины, якорные стоянки, достопримечательности, регаты"
-url: ""
-baseurl: ""
+url: "https://true-while.github.io"
+baseurl: "/lipari"
 
 # Build settings
 encoding: "utf-8"
