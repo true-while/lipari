@@ -45,7 +45,7 @@ header:
 
 ---
 
-### Посмотрим всё! — ~150 NM, 6 переходов
+### Посмотрим всё! — ~160 NM, 6 переходов
 
 Все семь островов за одну неделю — максимум архипелага. Маршрут уходит на запад до дикого **[Alicudi]({{ site.baseurl }}/alicudi/)**, огибает его и тянется к **[Salina]({{ site.baseurl }}/salina/)** — самый длинный переход (35 NM). На обратном пути — петля вокруг **[Stromboli]({{ site.baseurl }}/stromboli/)** через **[Panarea]({{ site.baseurl }}/panarea/)**. Требует уверенной навигации и запаса времени на погоду.
 
@@ -53,7 +53,7 @@ header:
 - вс [**Vulcano**]({{ site.baseurl }}/vulcano/) *(19 NM)* → 
 - пн [**Filicudi**]({{ site.baseurl }}/filicudi/) *(21 NM)* → 
 - вт [**Alicudi**]({{ site.baseurl }}/alicudi/) ↻ [**Salina**]({{ site.baseurl }}/salina/) *(37 NM)*  →
-- ср [**Panarea**]({{ site.baseurl }}/panarea/) · [**Stromboli**]({{ site.baseurl }}/stromboli/) ↻ *(36 NM)* → 
+- ср [**Panarea**]({{ site.baseurl }}/panarea/) · [**Stromboli**]({{ site.baseurl }}/stromboli/) ↻ *(32 NM)* → 
 - чт [**Lipari**]({{ site.baseurl }}/lipari/) *(24 NM)* → 
 - пт [**Portorosa**]({{ site.baseurl }}/portorosa/) *(22 NM)*
 
