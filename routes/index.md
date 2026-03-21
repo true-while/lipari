@@ -31,7 +31,7 @@ header:
 
 ### Сбалансированный — ~110 NM, 6 переходов
 
-Золотая середина: четыре главных острова плюс заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** — заправка, крепость и ужин на набережной. Переходы короткие и комфортные, а длинный участок Salina → Milazzo (25 NM) идёт под попутный бриз вдоль Сицилии. Хороший выбор для нового экипажа или первой недели на катамаране.
+Золотая середина: четыре главных острова плюс заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** — заправка, крепость и ужин на набережной. Переходы короткие и комфортные, а длинный участок Salina → Milazzo (27 NM) проходит под попутным бризом вдоль Сицилии — есть время прийти к финалу заранее. Это хороший выбор для нового экипажа или первой недели на катамаране.
 
 - сб [**Portorosa**]({{ site.baseurl }}/portorosa/) → 
 - вс [**Lipari**]({{ site.baseurl }}/lipari/) *(22 NM)* → 
@@ -45,12 +45,19 @@ header:
 
 ---
 
-### Посмотрим всё! — ~140 NM, 6 переходов
+### Посмотрим всё! — ~150 NM, 6 переходов
 
 Все семь островов за одну неделю — максимум архипелага. Маршрут уходит на запад до дикого **[Alicudi]({{ site.baseurl }}/alicudi/)**, огибает его и тянется к **[Salina]({{ site.baseurl }}/salina/)** — самый длинный переход (35 NM). На обратном пути — петля вокруг **[Stromboli]({{ site.baseurl }}/stromboli/)** через **[Panarea]({{ site.baseurl }}/panarea/)**. Требует уверенной навигации и запаса времени на погоду.
 
-[Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) *(19 NM)* → [Filicudi]({{ site.baseurl }}/filicudi/) *(20 NM)* → [Alicudi]({{ site.baseurl }}/alicudi/) ↻ [Salina]({{ site.baseurl }}/salina/) *(35 NM)* → [Panarea]({{ site.baseurl }}/panarea/) · [Stromboli]({{ site.baseurl }}/stromboli/) ↻ *(30 NM)* → [Lipari]({{ site.baseurl }}/lipari/) *(22 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(22 NM)*
-![alt text](seeall.png)
+- сб [**Portorosa**]({{ site.baseurl }}/portorosa/) → 
+- вс [**Vulcano**]({{ site.baseurl }}/vulcano/) *(19 NM)* → 
+- пн [**Filicudi**]({{ site.baseurl }}/filicudi/) *(21 NM)* → 
+- вт [**Alicudi**]({{ site.baseurl }}/alicudi/) ↻ [**Salina**]({{ site.baseurl }}/salina/) *(37 NM)*  →
+- ср [**Panarea**]({{ site.baseurl }}/panarea/) · [**Stromboli**]({{ site.baseurl }}/stromboli/) ↻ *(36 NM)* → 
+- чт [**Lipari**]({{ site.baseurl }}/lipari/) *(24 NM)* → 
+- пт [**Portorosa**]({{ site.baseurl }}/portorosa/) *(22 NM)*
+
+![Посмотрим всё!](seeall.png)
 ---
 
 ### Культурный — ~120 NM, 6 переходов
