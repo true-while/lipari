@@ -18,7 +18,13 @@ header:
 
 Пять главных островов по кольцу — проверенный маршрут, с которого начинают большинство чартеров. Грязевые ванны **[Vulcano]({{ site.baseurl }}/vulcano/)**, бары **[Lipari]({{ site.baseurl }}/lipari/)**, закат у кратера **[Stromboli]({{ site.baseurl }}/stromboli/)** и дегустация вин на **[Salina]({{ site.baseurl }}/salina/)**. Переходы короткие (4–21 NM), единственный длинный участок — возврат из Salina в Portorosa (30 NM) — идёт при попутном ветре. Идеален для первого знакомства с архипелагом.
 
-[Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) *(19 NM)* → [Lipari]({{ site.baseurl }}/lipari/) *(4 NM)* → [Panarea]({{ site.baseurl }}/panarea/) *(11 NM)* → [Stromboli]({{ site.baseurl }}/stromboli/) *(10 NM)* → [Salina]({{ site.baseurl }}/salina/) *(21 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(30 NM)*
+- сб [**Portorosa**]({{ site.baseurl }}/portorosa/) →  
+- вс [**Vulcano**]({{ site.baseurl }}/vulcano/) *(19 NM)* → 
+- пн [**Salina**]({{ site.baseurl }}/salina/) *(10 NM)* → 
+-  вт [**Stromboli**]({{ site.baseurl }}/stromboli/) *(20 NM)*  →
+- ср [**Panarea**]({{ site.baseurl }}/panarea/) *(11 NM)* → 
+- чт [**Lipari**]({{ site.baseurl }}/lipari/) *(10 NM)* →  
+- пт [**Portorosa**]({{ site.baseurl }}/portorosa/) *(22 NM)*
 
 ![Классический маршрут](calssic.png)
 ---
