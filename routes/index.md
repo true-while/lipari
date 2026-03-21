@@ -60,11 +60,17 @@ header:
 ![Посмотрим всё!](seeall.png)
 ---
 
-### Культурный — ~120 NM, 6 переходов
+### Культурный — ~105 NM, 6 переходов
 
 Впечатления и культура: парк Nebrodi из **[Capo d'Orlando]({{ site.baseurl }}/capo-d-orlando/)**, замок и музей **[Lipari]({{ site.baseurl }}/lipari/)**, винодельни **[Salina]({{ site.baseurl }}/salina/)**, богемная **[Panarea]({{ site.baseurl }}/panarea/)** и крепость **[Milazzo]({{ site.baseurl }}/milazzo/)**.
 
-[Portorosa]({{ site.baseurl }}/portorosa/) → [Capo d'Orlando]({{ site.baseurl }}/capo-d-orlando/) *(12 NM)* → [Vulcano]({{ site.baseurl }}/vulcano/) *(35 NM)* → [Lipari]({{ site.baseurl }}/lipari/) · [Panarea]({{ site.baseurl }}/panarea/) *(15 NM)* → [Salina]({{ site.baseurl }}/salina/) ↻ [Panarea]({{ site.baseurl }}/panarea/) *(26 NM)* → [Milazzo]({{ site.baseurl }}/milazzo/) *(25 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(8 NM)*
+- сб [**Portorosa**]({{ site.baseurl }}/portorosa/) → 
+- вс [**Capo d'Orlando**]({{ site.baseurl }}/capo-d-orlando/) *(17 NM)* → 
+- пн [**Lipari**]({{ site.baseurl }}/lipari/) *(21 NM)* →  
+- вт [**Panarea**]({{ site.baseurl }}/panarea/) *(11 NM)* → 
+- ср [**Salina**]({{ site.baseurl }}/salina/) *(11 NM)* → 
+- чт [**Milazzo**]({{ site.baseurl }}/milazzo/) *(27 NM)* → 
+- пт [**Portorosa**]({{ site.baseurl }}/portorosa/) *(14 NM)*
 
 ![Культурный маршрут](culture.png)
 
