@@ -15,20 +15,25 @@ header:
 
 ---
 
+## Сицилия
+
+| Порт | Что смотреть |
+|------|----------|
+| [**Milazzo**]({{ site.baseurl }}/milazzo/) | Главный порт, стартовая точка чартеров · [Castello di Milazzo]({{ site.baseurl }}/milazzo/#castello-di-milazzo---замок) — крупнейшая крепость Сицилии · [Capo Milazzo]({{ site.baseurl }}/milazzo/#capo-milazzo---мыс) — Piscina di Venere · [Duomo di Santo Stefano]({{ site.baseurl }}/milazzo/#duomo-di-santo-stefano---собор) |
+| [**Portorosa**]({{ site.baseurl }}/portorosa/) | Крупнейшая марина, «ворота» к архипелагу · логистический хаб — супермаркеты, пляж |
+| [**Capo d'Orlando**]({{ site.baseurl }}/capo-d-orlando/) | Альтернативный старт, низкие цены · [Villa Romana]({{ site.baseurl }}/capo-d-orlando/#villa-romana-di-bagnoli---руины) — мозаики III века · [Faro]({{ site.baseurl }}/capo-d-orlando/#faro-di-capo-dorlando---маяк) — маяк 1904 года · [Parco dei Nebrodi]({{ site.baseurl }}/capo-d-orlando/#nebrodi---парк) |
+
 ## Острова
 
-| Остров | Характер |
+| Остров | Что смотреть |
 |--------|----------|
-| [**Milazzo**]({{ site.baseurl }}/milazzo/) | Главный порт на материке, стартовая точка большинства чартеров |
-| [**Portorosa**]({{ site.baseurl }}/portorosa/) | Крупнейшая марина Сицилии, «ворота» к архипелагу |
-| [**Capo d'Orlando**]({{ site.baseurl }}/capo-d-orlando/) | Альтернативный старт на материке, низкие цены, парк Неброди |
-| [**Lipari**]({{ site.baseurl }}/lipari/) | Крупнейший остров, лучшие марины и инфраструктура |
-| [**Vulcano**]({{ site.baseurl }}/vulcano/) | Вулкан, грязевые ванны, горячие источники |
-| [**Salina**]({{ site.baseurl }}/salina/) | Виноделие, природа, гастрономия — остров для гурманов |
-| [**Panarea**]({{ site.baseurl }}/panarea/) | Богемный остров, клубная сцена, дайвинг |
-| [**Stromboli**]({{ site.baseurl }}/stromboli/) | Действующий вулкан, ночные извержения, дикая природа |
-| [**Filicudi**]({{ site.baseurl }}/filicudi/) | Самый дикий остров — гроты, скалы, уединение |
-| [**Alicudi**]({{ site.baseurl }}/alicudi/) | Самый удалённый остров — тишина, ступени, полное отключение |
+| [**Vulcano**]({{ site.baseurl }}/vulcano/) | Живой вулкан, грязи, горячие источники · [Gran Cratere]({{ site.baseurl }}/vulcano/#vulcano---вулкан) — восхождение на кратер · [Fanghi]({{ site.baseurl }}/vulcano/#fanghi-di-vulcano---грязи) — серные грязевые ванны · [Il Cappero]({{ site.baseurl }}/vulcano/#рестораны-и-магазины) ⭐ Michelin |
+| [**Stromboli**]({{ site.baseurl }}/stromboli/) | Действующий вулкан, ночные извержения · [Ночной трекинг к лаве]({{ site.baseurl }}/stromboli/#stromboli---вулкан) · [Strombolicchio]({{ site.baseurl }}/stromboli/#strombolicchio---остров-северо-восток) — вулканический шпиль с маяком · [Ginostra]({{ site.baseurl }}/stromboli/#ginostra---посёлок-юго-запад) — самый изолированный посёлок Италии |
+| [**Salina**]({{ site.baseurl }}/salina/) | Виноделие, природа, гастрономия · [Carlo Hauner]({{ site.baseurl }}/salina/#carlo-hauner---винодельня) и [Capofaro]({{ site.baseurl }}/salina/#capofaro-locanda--винодельня) ⭐⭐ — Malvasia · [Monte Fossa delle Felci]({{ site.baseurl }}/salina/#monte-fossa-delle-felci---гора) — 962 м · [Laghetto di Lingua]({{ site.baseurl }}/salina/#laghetto-di-lingua---озеро) — ЮНЕСКО |
+| [**Lipari**]({{ site.baseurl }}/lipari/) | Крупнейший остров, лучшие марины · [Castello di Lipari]({{ site.baseurl }}/lipari/#castello-di-lipari---замок) — замок и археологический музей · [Duomo di San Bartolomeo]({{ site.baseurl }}/lipari/#duomo-di-san-bartolomeo---собор) — норманнский собор |
+| [**Panarea**]({{ site.baseurl }}/panarea/) | Богемный остров, дайвинг · [Villaggio Preistorico]({{ site.baseurl }}/panarea/#villaggio-preistorico---поселение) — бронзовый век (XVI в. до н.э.) · [Cala Junco]({{ site.baseurl }}/panarea/#cala-junco---якорь-юг) — дайвинг · [Lisca Bianca]({{ site.baseurl }}/panarea/#lisca-bianca---остров) — подводные фумаролы |
+| [**Filicudi**]({{ site.baseurl }}/filicudi/) | Самый дикий — гроты, скалы · [Grotta del Bue Marino]({{ site.baseurl }}/filicudi/#grotta-del-bue-marino---грот) — морской грот · La Canna — снорклинг и фридайвинг |
+| [**Alicudi**]({{ site.baseurl }}/alicudi/) | Самый удалённый — тишина, отключение · [Timpone delle Femmine]({{ site.baseurl }}/alicudi/#timpone-delle-femmine---гора-675-м) — 675 м, панорама архипелага · [Chiesa di San Bartolomeo]({{ site.baseurl }}/alicudi/#chiesa-di-san-bartolomeo---церковь) — XVII век, 300 м · 1 500 ступеней вместо дорог |
 
 ---
 
