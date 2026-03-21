@@ -38,7 +38,7 @@ header:
 Все семь островов за одну неделю — максимум архипелага. Маршрут уходит на запад до дикого **[Alicudi]({{ site.baseurl }}/alicudi/)**, огибает его и тянется к **[Salina]({{ site.baseurl }}/salina/)** — самый длинный переход (35 NM). На обратном пути — петля вокруг **[Stromboli]({{ site.baseurl }}/stromboli/)** через **[Panarea]({{ site.baseurl }}/panarea/)**. Требует уверенной навигации и запаса времени на погоду.
 
 [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) *(19 NM)* → [Filicudi]({{ site.baseurl }}/filicudi/) *(20 NM)* → [Alicudi]({{ site.baseurl }}/alicudi/) ↻ [Salina]({{ site.baseurl }}/salina/) *(35 NM)* → [Panarea]({{ site.baseurl }}/panarea/) · [Stromboli]({{ site.baseurl }}/stromboli/) ↻ *(30 NM)* → [Lipari]({{ site.baseurl }}/lipari/) *(22 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(22 NM)*
-
+![alt text](seeall.png)
 ---
 
 ### Культурный — ~120 NM, 6 переходов
@@ -57,9 +57,9 @@ header:
 | [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Baia Levante]({{ site.baseurl }}/vulcano/#baia-levante---марина-восток) | Марина | €40–100 (апр–окт) |
 | [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Porto di Ponente]({{ site.baseurl }}/vulcano/#porto-di-ponente---якорь-запад) | Якорь | бесплатно |
 | [**Lipari**]({{ site.baseurl }}/lipari/) | [Porto Pignataro]({{ site.baseurl }}/lipari/#porto-pignataro---марина-восток) | Марина | €60–180 |
-| [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinеdì]({{ site.baseurl }}/salina/#marina-salina---marinеdì) | Марина | от €74 |
+| [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinedì]({{ site.baseurl }}/salina/#marina-salina---marinеdì) | Марина | от €74 |
 | [**Filicudi**]({{ site.baseurl }}/filicudi/) | [Pecorini a Mare]({{ site.baseurl }}/filicudi/#pecorini-a-mare---буи-юг) | Буи | €80–120 |
-| [**Panarea**]({{ site.baseurl }}/panarea/) | [Cala Junco]({{ site.baseurl }}/panarea/#cala-junco---якорь-юг) | Якорь | без ночевки |
+  | [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinedì]({{ site.baseurl }}/salina/#marina-salina---marinedì) | Марина | от €74 |
 | [**Panarea**]({{ site.baseurl }}/panarea/) | [Pontile Iditella]({{ site.baseurl }}/panarea/#pontile-iditella---буи-восток) | Буи | €80–120 |
 | [**Stromboli**]({{ site.baseurl }}/stromboli/) | [Punta Lena]({{ site.baseurl }}/stromboli/#punta-lena---якорь-север) | Якорь | бесплатно |
 
