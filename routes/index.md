@@ -30,9 +30,11 @@ header:
 
 ### Сбалансированный — ~90 NM, 6 переходов
 
-Немного гонок и много впечатлений. Заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** для закупок и осмотра замка.
+Немного гонок и много впечатлений. 4 острова и заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** запроваки и осмотра замка.
 
 [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) *(19 NM)* → [Salina]({{ site.baseurl }}/salina/) *(15 NM)* → [Stromboli]({{ site.baseurl }}/stromboli/) *(21 NM)* → [Lipari]({{ site.baseurl }}/lipari/) *(22 NM)* → [Milazzo]({{ site.baseurl }}/milazzo/) *(20 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(8 NM)*
+
+![alt text](balanced.png)
 
 ---
 
