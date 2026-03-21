@@ -29,11 +29,17 @@ header:
 ![Классический маршрут](calssic.png)
 ---
 
-### Сбалансированный — ~97 NM, 6 переходов
+### Сбалансированный — ~110 NM, 6 переходов
 
 Золотая середина: четыре главных острова плюс заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** — заправка, крепость и ужин на набережной. Переходы короткие и комфортные, а длинный участок Salina → Milazzo (25 NM) идёт под попутный бриз вдоль Сицилии. Хороший выбор для нового экипажа или первой недели на катамаране.
 
-[Portorosa]({{ site.baseurl }}/portorosa/) → [Lipari]({{ site.baseurl }}/lipari/) *(22 NM)* → [Panarea]({{ site.baseurl }}/panarea/) *(11 NM)* → [Stromboli]({{ site.baseurl }}/stromboli/) *(10 NM)* → [Salina]({{ site.baseurl }}/salina/) *(21 NM)* → [Milazzo]({{ site.baseurl }}/milazzo/) *(25 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(8 NM)*
+- сб [**Portorosa**]({{ site.baseurl }}/portorosa/) → 
+- вс [**Lipari**]({{ site.baseurl }}/lipari/) *(22 NM)* → 
+- пн [**Panarea**]({{ site.baseurl }}/panarea/) *(11 NM)* → 
+- вт [**Stromboli**]({{ site.baseurl }}/stromboli/) *(12 NM)* → 
+- ср [**Salina**]({{ site.baseurl }}/salina/) *(23 NM)* → 
+- чт [**Milazzo**]({{ site.baseurl }}/milazzo/) *(27 NM)* → 
+- пт [**Portorosa**]({{ site.baseurl }}/portorosa/) *(14 NM)*
 
 ![Сбалансированный маршрут](balanced.png)
 
