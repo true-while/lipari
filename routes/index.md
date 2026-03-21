@@ -26,7 +26,7 @@ header:
 - чт [**Panarea**]({{ site.baseurl }}/panarea/) → [**Lipari**]({{ site.baseurl }}/lipari/) *(10 NM)*  
 - пт [**Lipari**]({{ site.baseurl }}/lipari/) → [**Portorosa**]({{ site.baseurl }}/portorosa/) *(22 NM)*
 
-[**файл Navionics GPX**](classic-route.gpx)
+[файл Navionics GPX](classic-route.gpx)
 
 ![Классический маршрут](calssic.png)
 ---
@@ -43,7 +43,7 @@ header:
 - чт [**Salina**]({{ site.baseurl }}/salina/) → [**Milazzo**]({{ site.baseurl }}/milazzo/) *(27 NM)* 
 - пт [**Milazzo**]({{ site.baseurl }}/milazzo/) → [**Portorosa**]({{ site.baseurl }}/portorosa/) *(14 NM)*
 
-[**файл Navionics GPX**](balanced.gpx)
+[файл Navionics GPX](balanced.gpx)
 
 ![Сбалансированный маршрут](balanced.png)
 
@@ -61,7 +61,7 @@ header:
 - чт [**Panarea**]({{ site.baseurl }}/panarea/) → [**Lipari**]({{ site.baseurl }}/lipari/) *(24 NM)* 
 - пт [**Lipari**]({{ site.baseurl }}/lipari/) → [**Portorosa**]({{ site.baseurl }}/portorosa/) *(22 NM)*
 
-[**файл Navionics GPX**](take-all.gpx)
+[файл Navionics GPX](take-all.gpx)
 
 ![Посмотрим всё!](seeall.png)
 ---
@@ -78,7 +78,7 @@ header:
 - чт [**Salina**]({{ site.baseurl }}/salina/) → [**Milazzo**]({{ site.baseurl }}/milazzo/) *(27 NM)*  
 - пт [**Milazzo**]({{ site.baseurl }}/milazzo/) → [**Portorosa**]({{ site.baseurl }}/portorosa/) *(14 NM)*
 
-[**файл Navionics GPX**](culture.gpx)
+[файл Navionics GPX](culture.gpx)
 
 ![Культурный маршрут](culture.png)
 
