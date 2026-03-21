@@ -17,7 +17,7 @@ header:
 
 ### Классический — ~95 NM, 6 переходов
 
-Самый популярный маршрут: все главные острова по кругу. Хороший баланс ветра, достопримечательностей и ночной жизни. Подходит для первого знакомства с архипелагом.
+Пять главных островов по кольцу — проверенный маршрут, с которого начинают большинство чартеров. Грязевые ванны **[Vulcano]({{ site.baseurl }}/vulcano/)**, бары **[Lipari]({{ site.baseurl }}/lipari/)**, закат у кратера **[Stromboli]({{ site.baseurl }}/stromboli/)** и дегустация вин на **[Salina]({{ site.baseurl }}/salina/)**. Переходы короткие (4–21 NM), единственный длинный участок — возврат из Salina в Portorosa (30 NM) — идёт при попутном ветре. Идеален для первого знакомства с архипелагом.
 
 [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) *(19 NM)* → [Lipari]({{ site.baseurl }}/lipari/) *(4 NM)* → [Panarea]({{ site.baseurl }}/panarea/) *(11 NM)* → [Stromboli]({{ site.baseurl }}/stromboli/) *(10 NM)* → [Salina]({{ site.baseurl }}/salina/) *(21 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(30 NM)*
 
@@ -26,7 +26,7 @@ header:
 
 ### Сбалансированный — ~97 NM, 6 переходов
 
-Немного гонок и много впечатлений. 4 острова и заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** для заправки и осмотра замка.
+Золотая середина: четыре главных острова плюс заход в **[Milazzo]({{ site.baseurl }}/milazzo/)** — заправка, крепость и ужин на набережной. Переходы короткие и комфортные, а длинный участок Salina → Milazzo (25 NM) идёт под попутный бриз вдоль Сицилии. Хороший выбор для нового экипажа или первой недели на катамаране.
 
 [Portorosa]({{ site.baseurl }}/portorosa/) → [Lipari]({{ site.baseurl }}/lipari/) *(22 NM)* → [Panarea]({{ site.baseurl }}/panarea/) *(11 NM)* → [Stromboli]({{ site.baseurl }}/stromboli/) *(10 NM)* → [Salina]({{ site.baseurl }}/salina/) *(21 NM)* → [Milazzo]({{ site.baseurl }}/milazzo/) *(25 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(8 NM)*
 
@@ -36,7 +36,7 @@ header:
 
 ### Посмотреть всё — ~140 NM, 6 переходов
 
-Все семь островов за неделю. На третьем переходе — обход **[Alicudi]({{ site.baseurl }}/alicudi/)** и переход к **[Salina]({{ site.baseurl }}/salina/)**. На четвёртом — обход **[Stromboli]({{ site.baseurl }}/stromboli/)** через **[Panarea]({{ site.baseurl }}/panarea/)**.
+Все семь островов за одну неделю — максимум архипелага. Маршрут уходит на запад до дикого **[Alicudi]({{ site.baseurl }}/alicudi/)**, огибает его и тянется к **[Salina]({{ site.baseurl }}/salina/)** — самый длинный переход (35 NM). На обратном пути — петля вокруг **[Stromboli]({{ site.baseurl }}/stromboli/)** через **[Panarea]({{ site.baseurl }}/panarea/)**. Требует уверенной навигации и запаса времени на погоду.
 
 [Portorosa]({{ site.baseurl }}/portorosa/) → [Vulcano]({{ site.baseurl }}/vulcano/) *(19 NM)* → [Filicudi]({{ site.baseurl }}/filicudi/) *(20 NM)* → [Alicudi]({{ site.baseurl }}/alicudi/) ↻ [Salina]({{ site.baseurl }}/salina/) *(35 NM)* → [Panarea]({{ site.baseurl }}/panarea/) · [Stromboli]({{ site.baseurl }}/stromboli/) ↻ *(30 NM)* → [Lipari]({{ site.baseurl }}/lipari/) *(22 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(22 NM)*
 
