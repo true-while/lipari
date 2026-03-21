@@ -13,7 +13,6 @@ header:
   <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
 </div>
 
-## Маршруты
 
 ### Классический — ~95 NM, 6 переходов
 
@@ -44,7 +43,7 @@ header:
 
 ### Культурный — ~120 NM, 6 переходов
 
-Впечатления и культура: парк Неброди из **[Capo d'Orlando]({{ site.baseurl }}/capo-d-orlando/)**, замок и музей **[Lipari]({{ site.baseurl }}/lipari/)**, винодельни **[Salina]({{ site.baseurl }}/salina/)**, богемная **[Panarea]({{ site.baseurl }}/panarea/)** и крепость **[Milazzo]({{ site.baseurl }}/milazzo/)**.
+Впечатления и культура: парк Nebrodi из **[Capo d'Orlando]({{ site.baseurl }}/capo-d-orlando/)**, замок и музей **[Lipari]({{ site.baseurl }}/lipari/)**, винодельни **[Salina]({{ site.baseurl }}/salina/)**, богемная **[Panarea]({{ site.baseurl }}/panarea/)** и крепость **[Milazzo]({{ site.baseurl }}/milazzo/)**.
 
 [Portorosa]({{ site.baseurl }}/portorosa/) → [Capo d'Orlando]({{ site.baseurl }}/capo-d-orlando/) *(12 NM)* → [Vulcano]({{ site.baseurl }}/vulcano/) *(35 NM)* → [Lipari]({{ site.baseurl }}/lipari/) · [Panarea]({{ site.baseurl }}/panarea/) *(15 NM)* → [Salina]({{ site.baseurl }}/salina/) ↻ [Panarea]({{ site.baseurl }}/panarea/) *(26 NM)* → [Milazzo]({{ site.baseurl }}/milazzo/) *(25 NM)* → [Portorosa]({{ site.baseurl }}/portorosa/) *(8 NM)*
 
