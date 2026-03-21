@@ -57,4 +57,4 @@ bundle exec jekyll serve
 
 ## Нашли ошибку?
 
-[Создайте issue](https://github.com/true-while/lipari/issues/new?template=bug_report.md&title=%5BОшибка%5D%3A+&labels=bug) — мы исправим!
+[Нашли ошибку?](https://forms.office.com/r/Zv1Eu8qmFc?origin=lprLink) — мы исправим!
