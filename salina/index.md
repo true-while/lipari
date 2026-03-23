@@ -195,6 +195,7 @@ Carlo Hauner Sr. — уроженец Брешии, художник и диза
 
 ![Scogliera di Pollara](pollara.png)
 ![Scogliera di Pollara](pollara2.png)
+
 ---
 
 ### Spiaggia di Pollara - пляж
