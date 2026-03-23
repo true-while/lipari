@@ -90,7 +90,7 @@ header:
 | [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Baia Levante]({{ site.baseurl }}/vulcano/#baia-levante---марина-восток) | Марина | €40–100 (апр–окт) |
 | [**Vulcano**]({{ site.baseurl }}/vulcano/) | [Porto di Ponente]({{ site.baseurl }}/vulcano/#porto-di-ponente---якорь-запад) | Якорь | бесплатно |
 | [**Lipari**]({{ site.baseurl }}/lipari/) | [Porto Pignataro]({{ site.baseurl }}/lipari/#porto-pignataro---марина-восток) | Марина | €60–180 |
-| [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinedi]({{ site.baseurl }}/salina/#marina-salina---marinеdi) | Марина | от €74 |
+| [**Salina**]({{ site.baseurl }}/salina/) | [Marina Salina - Marinedi]({{ site.baseurl }}/salina/#marina-salina---Marinedi) | Марина | от €74 |
 | [**Filicudi**]({{ site.baseurl }}/filicudi/) | [Pecorini a Mare]({{ site.baseurl }}/filicudi/#pecorini-a-mare---буи-юг) | Буи | €80–120 | 
 | [**Panarea**]({{ site.baseurl }}/panarea/) | [Pontile Iditella]({{ site.baseurl }}/panarea/#pontile-iditella---буи-восток) | Буи | €80–120 |
 | [**Stromboli**]({{ site.baseurl }}/stromboli/) | [Punta Lena]({{ site.baseurl }}/stromboli/#punta-lena---якорь-север) | Якорь | бесплатно |
