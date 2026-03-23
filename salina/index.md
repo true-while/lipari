@@ -193,8 +193,8 @@ Carlo Hauner Sr. — уроженец Брешии, художник и диза
 
 `Координаты: 38° 36.48' N, 14° 48.28' E`
 
-![Scogliera di Pollara](Scogliera.png)
-
+![Scogliera di Pollara](pollara.png)
+![Scogliera di Pollara](pollara2.png)
 ---
 
 ### Spiaggia di Pollara - пляж
