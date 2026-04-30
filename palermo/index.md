@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Palermo
+layout: single
+title: "Palermo"
+header:
+  image: /palermo/title.png
 ---
 
 # Маршрут по Палермо
