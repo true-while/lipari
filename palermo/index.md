@@ -15,6 +15,7 @@ title: Palermo
 
 **Входной билет:** Бесплатно
 
+![alt text](Quattro.png)
 ---
 
 ## 2. Fontana Pretoria (Фонтан Претория)
@@ -27,6 +28,7 @@ title: Palermo
 
 **Входной билет:** Бесплатно
 
+![alt text](Fontana.png)
 ---
 
 ## 3. Piazza Bellini (Площадь Беллини)
@@ -39,6 +41,7 @@ title: Palermo
 
 **Входной билет:** Бесплатно
 
+![alt text](Bellini.png)
 ---
 
 ## 4. Church of Saint Mary dell Ammiragio (Церковь Святой Марии Адмиралтейская)
@@ -53,6 +56,7 @@ title: Palermo
 
 > **Закрывается в 16:30 (4:30pm)** - планируйте визит заранее
 
+![alt text](Mary.png)
 ---
 
 ## 5. Mercato Ballaro (Рынок Балларо)
@@ -63,6 +67,7 @@ title: Palermo
 
 **Режим работы:** Пн-сб 7:00-14:00 (утро/ранний полдень), некоторые ларьки работают вечером
 
+![alt text](Ballaro.png)
 ---
 
 ## 6. Cattedrale di Palermo (Кафедральный собор Палермо)
@@ -79,6 +84,7 @@ title: Palermo
 
 > **Крыша закрывается в 17:30 (5:30pm)** - поднимитесь заранее
 
+![alt text](Cattedrale.png)
 ---
 
 ## 7. Palazzo dei Normanni (Норманнский дворец)
@@ -91,6 +97,7 @@ title: Palermo
 
 **Входной билет:** €9
 
+![alt text](Normanni.png)
 ---
 
 ## 8. Cappella Palatina (Королевская капелла)
@@ -103,6 +110,7 @@ title: Palermo
 
 **Входной билет:** Входит в билет Palazzo dei Normanni (€9)
 
+![alt text](Palatina.png)
 ---
 
 ## 9. Villa Bonanno (Вилла Бонанно)
@@ -113,7 +121,7 @@ title: Palermo
 
 **Режим работы:** Круглосуточно (открытый сад)
 
-
+![alt text](Bonanno.png)
 ---
 
 ## Рекомендуемый порядок маршрута
